@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pro Excel Gen"
+  short_description: "Generate, translate, analyze, visualize, and audit Excel workbooks."
+  default_prompt: "Use $pro-excel-gen to generate, translate, clean, analyze, visualize, or audit a professional Excel workbook with formulas, tables, charts, pandas/ML helpers, and image fidelity checks."

@@ -1,0 +1,14 @@
+# Core workbook IO and authoring
+openpyxl>=3.1.5
+XlsxWriter>=3.2.9
+Pillow>=12.2.0
+
+# Visual rendering and chart assets
+matplotlib>=3.11.0
+numpy>=2.3.5
+
+# Data cleaning, statistics, and source integration
+pandas>=3.0.1
+
+# Guided machine-learning helpers
+scikit-learn>=1.7.0
