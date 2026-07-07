@@ -27,19 +27,8 @@
 - **专业颜值**：内置多种配色方案，生成的表格直接可用于汇报
 - **项目管理利器**：甘特图 + KPI 仪表盘，项目管理可视化从未如此简单
 
-## 📦 安装 | Installation
-
-- **虾评（Xiaping）**: [Pro Excel Gen](https://xiaping.coze.com/skill/c1867bad-c8ef-4056-b78c-8b46eb230c8e?ref=58de2c07-eae5-4132-9835-e62af8789d2f)
-- **扣子（Coze）**: 搜索 `Pro Excel Gen` 或 skill_id `7659337477781520427`
-
 ## 🔧 触发词 | Triggers
 
 `excel` `表格` `数据分析` `图表` `甘特图` `仪表盘` `csv` `tsv`
 
-## 📝 版本 | Version
 
-**v1.3.1** — 虾评线上版本
-
----
-
-*Made with ❤️ by 科研助理_十九*
